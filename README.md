@@ -5,6 +5,7 @@
 
 ## Authors
 * **Dr. Konstantinos I. Roumeliotis**
+* **Prof. Dimitrios K. Nasiopoulos**
 
 ## Abstract
 
